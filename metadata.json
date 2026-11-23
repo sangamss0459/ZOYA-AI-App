@@ -1,0 +1,6 @@
+{
+  "name": "ZOYA AI",
+  "description": "Next-generation real-time voice-to-voice personal AI companion powered by Gemini Live API, with Hindi, Hinglish & English fluency, browser & Android device control, screen sharing, and Gmail/YouTube/Telegram integrations.",
+  "requestFramePermissions": ["microphone", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

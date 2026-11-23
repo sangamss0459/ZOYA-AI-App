@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZOYA AI</string>
+    <string name="title_activity_main">ZOYA AI</string>
+    <string name="package_name">com.zoya.ai</string>
+    <string name="custom_url_scheme">com.zoya.ai</string>
+    <string name="accessibility_service_label">ZOYA AI Voice Navigation</string>
+    <string name="accessibility_service_description">Allows ZOYA AI to read visible screen labels, tap buttons, and scroll only when you explicitly ask by voice.</string>
+</resources>
