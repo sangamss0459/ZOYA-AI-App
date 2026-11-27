@@ -64,7 +64,7 @@ jobs:
       - name: Install dependencies and sync local web assets
         run: |
           set -euo pipefail
-         npm install --legacy-peer-deps
+          npm install --legacy-peer-deps
           npm run build
           npx cap sync android
 
